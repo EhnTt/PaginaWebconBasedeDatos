@@ -9,7 +9,7 @@
                 <form action="" method="post">
                     <div class="card">
                         <div class="card-header">
-                            Administrar Cuentas.
+                            Administrar Cuentas
                         </div>
                         <div class="card-body">
                             <!--ID-->
